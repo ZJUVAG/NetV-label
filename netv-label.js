@@ -16,6 +16,7 @@ export class Label {
         this.$_core.$_container.style.width = this.$_core.$_configs.width
         this.$_core.$_container.style.height = this.$_core.$_configs.height
         this.$_svg.style.position = 'absolute'
+        this.$_svg.style.zIndex = '10'
         this.$_svg.style.pointerEvents = 'none'
 
     }
