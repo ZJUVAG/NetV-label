@@ -1,6 +1,6 @@
 {
   "name": "netv-label",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Label plugin for NetV.js",
   "main": "index.js",
   "scripts": {
